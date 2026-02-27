@@ -67,5 +67,9 @@ https://bitespeed-identity-service-ss6w.onrender.com
 Swagger Docs:
 https://bitespeed-identity-service-ss6w.onrender.com/docs
 
+Github Repo:
+https://github.com/daiviksinha2004-pixel/bitespeed-identity-service
+
 Endpoint:
 POST /identify
+
